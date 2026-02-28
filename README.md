@@ -1,0 +1,41 @@
+# THE AI TAKE – 【BOOM BAP MIX】The ONE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+One life, one chance, 俺は一人
+No guide, no hands, 進むしかない
+No fear, no tears, 夜を超えて
+One step, one way, 光を掴め
+ひび割れたアスファルトの上
+影だけが俺を見つめてる
+頼るものなんてどこにもない
+なら自分の足で踏み出す tonight
+叫んでも誰も応えない
+乾いた風が心を裂く
+ならこの声で切り裂いて
+静寂を壊せ loud and high
+孤独なんて怖くない 俺は俺で立ち上がる
+誰もいない でも負けない
+ONE—この拳を掲げろ
+One life, one chance, 俺は一人
+No guide, no hands, 進むしかない
+No fear, no tears, 夜を超えて
+One step, one way, 光を掴め
+涙が道を滲ませても
+その足を止める理由はない
+運命なんて待たねぇ
+この手で変える未来のshape
+壁が高くても climb it up
+道がなくても find a path
+ひとりきり でも負けない
+ONE—それが俺の生きる sign
+孤独は終わりじゃなく始まり
+ひとりだからこそ強くなれる
+立ち上がれ、振り返るな
+ONE—それが俺の証明
+One life, one chance, 俺は一人
+No guide, no hands, 進むしかない
+No fear, no tears, 夜を超えて
+One step, one way, 光を掴め
+```
