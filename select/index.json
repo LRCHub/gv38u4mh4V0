@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "【BOOM BAP MIX】The ONE",
+  "base_artist": "THE AI TAKE",
+  "createdAt": "2026-02-28T02:00:13.223911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She's the One",
+      "artist": "Tyler Tisdale",
+      "has_synced": true,
+      "path": "select/01_She's_the_One_Tyler_Tisdale.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She's the One",
+      "artist": "Bad Meets Evil",
+      "has_synced": false,
+      "path": "select/02_She's_the_One_Bad_Meets_Evil.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You [feat. Fiona Apple]",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/03_(Remember_Me)_I'm_the_One_Who_Loves_You_[feat._Fiona_Apple]_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Remember Me) I'm the One Who Loves You",
+      "artist": "Watkins Family Hour",
+      "has_synced": true,
+      "path": "select/04_(Remember_Me)_I'm_the_One_Who_Loves_You_Watkins_Family_Hour.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holding Out for the One",
+      "artist": "Tenille Townes",
+      "has_synced": false,
+      "path": "select/05_Holding_Out_for_the_One_Tenille_Townes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Be The One",
+      "artist": "The Statler Brothers",
+      "has_synced": false,
+      "path": "select/06_I'll_Be_The_One_The_Statler_Brothers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The One I Loved Back Then",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/07_The_One_I_Loved_Back_Then_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The One I Loved Back Then (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/08_The_One_I_Loved_Back_Then_(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The One I Loved Back Then (The Corvette Song)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/09_The_One_I_Loved_Back_Then_(The_Corvette_Song)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The One on the Right Is on the Left",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/10_The_One_on_the_Right_Is_on_the_Left_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The One on the Right Is on the Left (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/11_The_One_on_the_Right_Is_on_the_Left_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Why Have You Left the One You Left Me For",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/12_Why_Have_You_Left_the_One_You_Left_Me_For_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You're Still The One",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/13_You're_Still_The_One_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You're Still The One",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/14_You're_Still_The_One_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You're The One",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/15_You're_The_One_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The One I Love",
+      "artist": "Rosie Thomas",
+      "has_synced": true,
+      "path": "select/16_The_One_I_Love_Rosie_Thomas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "one",
+      "artist": "AItake",
+      "has_synced": false,
+      "path": "select/pl_01_one_AItake.txt"
+    }
+  ]
+}
